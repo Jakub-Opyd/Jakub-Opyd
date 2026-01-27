@@ -1,177 +1,140 @@
-<!-- PL -->
-<!-- # 👋 Cześć, jestem Jakub
+# Hi, I'm Jakub Opyd
 
-🎓 Student Informatyki Stosowanej (WSEI) | 🌱 Junior Frontend Developer & QA Enthusiast  
-
----
-
-## 🚀 O mnie
-- 💻 Fascynuję się **frontendem (React, TypeScript, JavaScript)** oraz **jakością oprogramowania (QA)**  
-- 🎯 Moim celem zawodowym jest zostać **Frontend Developerem / QA Engineerem**  
-- 📚 Aktualnie rozwijam się w zakresie:
-  - React + TypeScript
-  - Testy (manualne i automatyczne)
-  - CI/CD i podstawy DevOps
+**QA Automation Engineer** with frontend development background
+Applied Computer Science @ WSEI Kraków
+Relocating to Gdańsk
 
 ---
 
-## 🛠️ Technologie i narzędzia
-- **Frontend:** React, TypeScript, JavaScript, Tailwind CSS  
-- **Backend:** Node.js, Express  
-- **Bazy danych:** SQLite, Firebase, MongoDB  
-- **Testy i QA:** Postman, React Testing Library, axe, Lighthouse, Chrome DevTools  
-- **Pozostałe:** Git, GitHub Actions (CI/CD), Docker (podstawy)  
+## About Me
+
+I'm a junior QA Automation Engineer with hands-on experience in frontend development (React/TypeScript). My developer background allows me to understand code architecture, write maintainable test automation, and communicate effectively with development teams.
+
+**Professional experience:**
+- Frontend Intern at In2Web (2024-2025)
+- Designed and executed E2E test suites using Playwright
+- Integrated automated tests into CI/CD pipelines (GitHub Actions)
+- Performed WCAG 2.1 accessibility audits achieving 100% Lighthouse compliance
+
+**Currently seeking:** Junior QA Automation Engineer position in Gdańsk
 
 ---
 
-## 🚀 Projekty
+## Technical Skills
 
-### [Firebase App](https://github.com/JakubOpydwsei/Firebase)  
-Aplikacja stworzona w celu praktycznej nauki **Next.js** i nowoczesnych rozwiązań chmurowych.  
-Obsługuje logowanie/rejestrację (z potwierdzeniem mailowym), profil użytkownika (edycja danych i zdjęcia), prostą sekcję artykułów oraz koszyk z rekomendacjami produktów i obsługą kodów promocyjnych.  
-- **Stack:** Next.js, Tailwind CSS, DaisyUI, react-hook-form, Firebase  
-- **Jakość:** testy E2E (Playwright), CI/CD (GitHub Actions), hosting na Vercel  
-- **Demo:** [firebase-nextjs-jo.vercel.app](https://firebase-nextjs-jo.vercel.app/)
+### Testing & Quality Assurance
+- **E2E Automation:** Playwright, Vitest, React Testing Library
+- **API Testing:** Postman, REST API validation
+- **Manual Testing:** Test case design, exploratory testing, bug reporting
+- **Accessibility:** Lighthouse, axe-core, WCAG 2.1 compliance
+- **Performance:** Chrome DevTools, Lighthouse audits
+- **CI/CD:** GitHub Actions (automated test execution)
 
-
-### [ManagMe](https://github.com/JakubOpydwsei/ManagMe)  
-System w stylu **Kanban**, inspirowany GitHub Projects, do zarządzania projektami i zadaniami w zespołach.  
-Posiada dwa backendy – jeden odpowiedzialny za logowanie i tokeny JWT, drugi za dane aplikacji. Wspiera logowanie przez Google (OAuth2), responsywność oraz motywy jasny/ciemny.  
-- **Stack:** React, Node.js, Express, MongoDB, JWT, REST API, TypeScript, Tailwind CSS, DaisyUI  
-- **Jakość:** testy E2E (Playwright), CI/CD (GitHub Actions), Lighthouse/AXE (SEO 100, A11Y 100)  
-- **Uwaga:** brak live demo ze względu na architekturę z 2 backendami
-
-
-### [QA Portfolio](https://github.com/JakubOpydwsei/qa-portfolio)  
-Repozytorium prezentujące moje umiejętności z zakresu **testowania manualnego i automatycznego**.  
-Zawiera: testy endpointów backendu (`ManagMe`), exploratory testy dla Allegro i OpenCart, scenariusze testowe, test cases oraz bug reporty.  
-- **Narzędzia:** Postman, Playwright, GitHub Issues  
-- Stanowi uzupełnienie umiejętności frontendowych i backendowych, pokazując podejście QA.
-
-### [🌱 Gardener (projekt inżynierski – w trakcie rozwoju)](https://github.com/JakubOpydwsei/Gardener)
-Aplikacja webowa wspierająca użytkowników w planowaniu i pielęgnacji ogrodu. Projekt realizowany zespołowo (3 osoby) w ramach pracy inżynierskiej.
-Mój wkład: **frontend** (**React**, **TypeScript**, **UI/UX)**, w przyszłości również **testy**, **CI/CD** oraz **PWA**.
-
-Funkcjonalności:
-
-- Wstępna encyklopedia roślin z informacjami o glebie, podlewaniu, nasłonecznieniu i okresach sadzenia,
-- Wstępny interaktywny kreator ogrodu (planowanie rozmieszczenia roślin),
-- Plany rozwoju: AI do rekomendacji roślin, pełna PWA, CI/CD, powiadomienia i wskazówki (np. podlewanie, niekompatybilne rośliny).
-
-Stack: React, TypeScript, Node.js (Express), SQLite, REST API, Tailwind CSS, DaisyUI, AOS. -->
-
-
-
-<!-- ANG -->
-
-<!-- # 👋 Hi, I'm Jakub
-
-🎓 Applied Computer Science student (WSEI) | 🌱 Junior Frontend Developer & QA Enthusiast  
+### Development
+- **Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3
+- **Styling:** Tailwind CSS, DaisyUI, Responsive Design
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, SQLite, SQL
+- **Version Control:** Git, GitHub
+- **Build Tools:** Vite, npm
 
 ---
 
-## 🚀 About Me
-- 💻 Passionate about **frontend development (React, TypeScript, JavaScript)** and **software quality (QA)**  
-- 🎯 My career goal is to become a **Frontend Developer / QA Engineer**  
-- 📚 Currently improving my skills in:
-  - React + TypeScript
-  - Testing (manual & automated)
-  - CI/CD and basic DevOps
+## Featured Projects
+
+### [QA Portfolio](https://github.com/JakubOpydwsei/qa-portfolio)
+Comprehensive demonstration of manual and automated testing skills
+
+**What's included:**
+- OpenCart e-commerce platform: complete QA cycle (test cases, bug reports, checklists)
+- API testing: Postman collections for REST API validation
+- Exploratory testing: session-based testing on Allegro.pl
+- Test documentation: structured test cases and defect reports
+
+**Technologies:** Postman, Playwright, Test Case Design, Bug Reporting
 
 ---
 
-## 🛠️ Tech Stack & Tools
-- **Frontend:** React, TypeScript, JavaScript, Tailwind CSS  
-- **Backend:** Node.js, Express  
-- **Databases:** SQLite, Firebase, MongoDB  
-- **Testing & QA:** Postman, React Testing Library, axe, Lighthouse, Chrome DevTools  
-- **Other:** Git, GitHub Actions (CI/CD), Docker (basics)  
+### [ManagMe - Task Management System](https://github.com/JakubOpydwsei/ManagMe)
+Full-stack Kanban-style project management application with comprehensive test automation
+
+**Key features:**
+- E2E test suite with 80%+ critical path coverage
+- CI/CD pipeline with automated Playwright tests on every push
+- WCAG 2.1 compliant (100% Lighthouse accessibility score)
+- JWT authentication with Google OAuth integration
+ 
+**Technologies:** React, TypeScript, Playwright, Express.js, MongoDB, GitHub Actions
 
 ---
 
-## 🚀 Projects
+### [Gardener - Garden Planning Application](https://github.com/JakubOpydwsei/Gardener)
+Team engineering project (3 contributors) for garden management and plant planning
 
-### [Firebase App](https://github.com/JakubOpydwsei/Firebase)  
-A project built to practice **Next.js** and modern cloud-based solutions.  
-Features include user authentication/registration (with email confirmation), profile management (data & avatar), a simple article section, and a shopping cart with product recommendations and promo codes.  
-- **Stack:** Next.js, Tailwind CSS, DaisyUI, react-hook-form, Firebase  
-- **Quality:** E2E tests (Playwright), CI/CD (GitHub Actions), hosted on Vercel  
-- **Demo:** [firebase-nextjs-jo.vercel.app](https://firebase-nextjs-jo.vercel.app/)
+**Features:**
+- Plant encyclopedia with search and filtering
+- Garden planner for managing multiple gardens
+- Session-based authentication
+- E2E test suite with Page Object Model (POM) pattern
+- Smoke tests for critical user flows
 
+**My role:** Frontend development (React/TypeScript), UI/UX implementation, API integration, E2E test automation  
+**Technologies:** React, TypeScript, Playwright, Express.js, MongoDB, DaisyUI
 
-### [ManagMe](https://github.com/JakubOpydwsei/ManagMe)  
-A **Kanban-style** system, inspired by GitHub Projects, for team project and task management.  
-It includes two backends – one for authentication (JWT) and another for application data. Supports Google login (OAuth2), responsive design, and light/dark mode.  
-- **Stack:** React, Node.js, Express, MongoDB, JWT, REST API, TypeScript, Tailwind CSS, DaisyUI  
-- **Quality:** E2E tests (Playwright), CI/CD (GitHub Actions), Lighthouse/AXE (SEO 100, A11Y 100)  
-- **Note:** No live demo available due to architecture requiring 2 backend servers
-
-
-### [QA Portfolio](https://github.com/JakubOpydwsei/qa-portfolio)  
-A repository presenting my **manual and automated testing** skills.  
-Includes: backend endpoint tests (`ManagMe`), exploratory testing for Allegro and OpenCart, test cases, scenarios, and bug reports.  
-- **Tools:** Postman, Playwright, GitHub Issues  
-- Complements my frontend & backend development skills, demonstrating my QA approach.
-
-### [🌱 Gardener (Engineering Project – in progress)](https://github.com/JakubOpydwsei/Gardener)  
-A web application helping users **plan and maintain their gardens**. A team project (3 members) developed as part of my engineering thesis.  
-My role: **frontend development (React, TypeScript, UI/UX)**, later also **testing**, **CI/CD**, and **PWA**.  
-
-**Features (MVP so far):**  
-- Initial plant encyclopedia with soil, watering, sunlight, and planting season info  
-- Early version of an **interactive garden creator** (plant layout planning)  
-
-**Planned development:**  
-- AI assistant for plant recommendations,  
-- Full PWA support,  
-- CI/CD integration,  
-- Notifications & care tips (e.g., watering reminders, plant compatibility alerts).  
-
-**Stack:** React, TypeScript, Node.js (Express), SQLite, REST API, Tailwind CSS, DaisyUI, AOS   -->
-
-
-<!-- For HR -->
-
-# 👋 Hi, I'm Jakub
-
-🎓 Applied Computer Science student (WSEI) | Junior Frontend Developer & QA Enthusiast  
+**Planned:** CI/CD integration, PWA support, accessibility improvements, expanded test coverage
 
 ---
 
-## 🚀 About Me
-I’m passionate about **frontend development** and **software quality**. I enjoy building intuitive, responsive applications and ensuring high-quality user experiences.  
-I’m looking to start my career as a **Frontend Developer** or **QA Engineer**.  
+### [Firebase App](https://github.com/JakubOpydwsei/Firebase)
+Full-stack web application demonstrating modern cloud-based solutions
+
+**Features:**
+- User authentication with email confirmation
+- Profile management (data editing, avatar upload)
+- Shopping cart with product recommendations
+- E2E test coverage with Playwright
+
+**Technologies:** Next.js, Firebase, Playwright, Tailwind CSS  
+**Live Demo:** [firebase-nextjs-jo.vercel.app](https://firebase-nextjs-jo.vercel.app/)
 
 ---
 
-## 🛠️ Skills & Tools
-- **Frontend:** React, TypeScript, JavaScript, Tailwind CSS  
-- **Backend:** Node.js, Express  
-- **Databases:** SQLite, Firebase, MongoDB  
-- **Testing & QA:** Manual & automated testing, Postman, basic E2E testing  
-- **Other:** Git, CI/CD pipelines, Chrome DevTools  
+## Tech Stack Badges
+
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-## 🌟 Key Projects
+## What I Bring to QA Teams
 
-### [Firebase App](https://github.com/JakubOpydwsei/Firebase)  
-A web application demonstrating user authentication, profile management, articles, and a simple shopping cart with product recommendations.  
-- Role: frontend development, E2E testing, deployment  
-- Focus: creating a smooth user experience and practicing cloud-based solutions  
-- **Demo:** [firebase-nextjs-jo.vercel.app](https://firebase-nextjs-jo.vercel.app/)
+As a QA engineer with development background, I offer unique advantages:
 
-### [ManagMe](https://github.com/JakubOpydwsei/ManagMe)  
-A **team task management system** inspired by Kanban boards, supporting user authentication, responsive design, and light/dark modes.  
-- Role: frontend & integration with backend, testing  
-- Focus: improving usability and accessibility, ensuring quality of features
+- **Code comprehension:** I can read and understand application code, enabling better test coverage and more effective bug isolation
+- **Developer collaboration:** I communicate technical issues effectively and understand development constraints
+- **Test automation:** I write maintainable, scalable test automation using TypeScript and modern frameworks
+- **Full-stack perspective:** I test at every level - frontend UI/UX, backend APIs, and end-to-end integration
 
-### [QA Portfolio](https://github.com/JakubOpydwsei/qa-portfolio)  
-Demonstrates my **QA skills**, including exploratory testing, test case creation, and bug reporting for real-world websites and backend APIs.  
-- Role: tester, documenting issues, ensuring reliability and quality
+---
 
-### [Gardener (Engineering Project – in progress)](https://github.com/JakubOpydwsei/Gardener)  
-A team project helping users **plan and maintain their gardens**, with an interactive layout planner and plant encyclopedia.  
-- Role: frontend development (React, TypeScript, UI/UX), future testing, CI/CD, PWA  
-- Focus: enhancing usability, responsive design, and delivering a high-quality user experience  
-- Planned features: AI-powered plant recommendations, notifications, advanced PWA support
+## Education & Certifications
+
+**Bachelor of Engineering in Applied Computer Science**  
+University of Economics and Computer Science (WSEI), Kraków  
+2022 - 2026
+
+**Certifications:**
+- ITS Certificate in Databases
+- ITS Certificate in Software Development
+- ITS Certificate in HTML and CSS
+- ITS Certificate in Network Security
+- ITS Certificate in Networking
+
