@@ -1,140 +1,96 @@
-# Hi, I'm Jakub Opyd
+# Jakub Opyd
 
-**QA Automation Engineer** with frontend development background
-Applied Computer Science @ WSEI Kraków
-Relocating to Gdańsk
+Junior QA Engineer with a frontend development background and hands-on experience testing full-stack React + Express + MongoDB applications. Understands both sides of the process — how software is built and where it tends to fail. Focused on structured testing that helps small teams ship with confidence.
 
----
-
-## About Me
-
-I'm a junior QA Automation Engineer with hands-on experience in frontend development (React/TypeScript). My developer background allows me to understand code architecture, write maintainable test automation, and communicate effectively with development teams.
-
-**Professional experience:**
-- Frontend Intern at In2Web (2024-2025)
-- Designed and executed E2E test suites using Playwright
-- Integrated automated tests into CI/CD pipelines (GitHub Actions)
-- Performed WCAG 2.1 accessibility audits achieving 100% Lighthouse compliance
-
-**Currently seeking:** Junior QA Automation Engineer position in Gdańsk
+📍 Gdańsk / Remote &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/jakub-opyd/) &nbsp;|&nbsp; jakubopyd@gmail.com
 
 ---
 
-## Technical Skills
+## QA Portfolio
 
-### Testing & Quality Assurance
-- **E2E Automation:** Playwright, Vitest, React Testing Library
-- **API Testing:** Postman, REST API validation
-- **Manual Testing:** Test case design, exploratory testing, bug reporting
-- **Accessibility:** Lighthouse, axe-core, WCAG 2.1 compliance
-- **Performance:** Chrome DevTools, Lighthouse audits
-- **CI/CD:** GitHub Actions (automated test execution)
+### Gardener QA – Testing Project
 
-### Development
-- **Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3
-- **Styling:** Tailwind CSS, DaisyUI, Responsive Design
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, SQLite, SQL
-- **Version Control:** Git, GitHub
-- **Build Tools:** Vite, npm
+🔗 [github.com/Jakub-Opyd/gardener-qa](https://github.com/Jakub-Opyd/gardener-qa)
+
+Structured manual QA project covering a full-stack web application (React + Express.js + MongoDB).
+
+- Designed **78 test cases** across 4 modules: AUTH, PLANTS, FAVORITES, GARDEN CREATOR
+- Executed 59 tests — identified **3 defects including 2 Critical backend crashes**
+- Produced full QA documentation: test strategy, test plan, test scenarios, traceability matrix
+- Reported bugs with reproduction steps, severity classification and screenshot evidence
+
+`Postman` `Chrome DevTools` `MongoDB Compass` `Markdown`
 
 ---
 
-## Featured Projects
+### ManagMe – Task Management System
 
-### [QA Portfolio](https://github.com/JakubOpydwsei/qa-portfolio)
-Comprehensive demonstration of manual and automated testing skills
+🔗 [github.com/Jakub-Opyd/managme](https://github.com/Jakub-Opyd/managme)
 
-**What's included:**
-- OpenCart e-commerce platform: complete QA cycle (test cases, bug reports, checklists)
-- API testing: Postman collections for REST API validation
-- Exploratory testing: session-based testing on Allegro.pl
-- Test documentation: structured test cases and defect reports
+Full-stack web application with E2E test automation and CI/CD integration.
 
-**Technologies:** Postman, Playwright, Test Case Design, Bug Reporting
+- Playwright E2E tests for authentication and task management workflows
+- Automated CRUD scenarios for projects and tasks
+- CI/CD pipeline with GitHub Actions
+- REST API validation with Postman collection
+- Accessibility testing with axe DevTools and Lighthouse
 
----
-
-### [ManagMe - Task Management System](https://github.com/JakubOpydwsei/ManagMe)
-Full-stack Kanban-style project management application with comprehensive test automation
-
-**Key features:**
-- E2E test suite with 80%+ critical path coverage
-- CI/CD pipeline with automated Playwright tests on every push
-- WCAG 2.1 compliant (100% Lighthouse accessibility score)
-- JWT authentication with Google OAuth integration
- 
-**Technologies:** React, TypeScript, Playwright, Express.js, MongoDB, GitHub Actions
+`Playwright` `TypeScript` `GitHub Actions` `Postman` `React` `Express` `MongoDB`
 
 ---
 
-### [Gardener - Garden Planning Application](https://github.com/JakubOpydwsei/Gardener)
-Team engineering project (3 contributors) for garden management and plant planning
+### Gardener – Plant Management Web Application *(Team Project)*
 
-**Features:**
-- Plant encyclopedia with search and filtering
-- Garden planner for managing multiple gardens
-- Session-based authentication
-- E2E test suite with Page Object Model (POM) pattern
-- Smoke tests for critical user flows
+🔗 [github.com/Jakub-Opyd/Gardener](https://github.com/Jakub-Opyd/Gardener)
 
-**My role:** Frontend development (React/TypeScript), UI/UX implementation, API integration, E2E test automation  
-**Technologies:** React, TypeScript, Playwright, Express.js, MongoDB, DaisyUI
+Team engineering project — frontend development and QA contribution.
 
-**Planned:** CI/CD integration, PWA support, accessibility improvements, expanded test coverage
+- Playwright smoke tests with Page Object Model
+- Automated authentication and plant browsing workflows
+- Accessibility testing with axe DevTools and Lighthouse
+- Frontend development in React / TypeScript
+
+`Playwright` `TypeScript` `React` `Express` `MongoDB`
 
 ---
 
-### [Firebase App](https://github.com/JakubOpydwsei/Firebase)
-Full-stack web application demonstrating modern cloud-based solutions
+## QA Skills
 
-**Features:**
-- User authentication with email confirmation
-- Profile management (data editing, avatar upload)
-- Shopping cart with product recommendations
-- E2E test coverage with Playwright
+**Test Automation** — Playwright, E2E testing, Page Object Model, CI/CD test execution (GitHub Actions)
 
-**Technologies:** Next.js, Firebase, Playwright, Tailwind CSS  
-**Live Demo:** [firebase-nextjs-jo.vercel.app](https://firebase-nextjs-jo.vercel.app/)
+**Manual Testing** — test case design, exploratory testing, regression testing, defect reporting
 
----
+**API Testing** — Postman, Newman, REST API validation
 
-## Tech Stack Badges
+**Accessibility Testing** — axe DevTools, Lighthouse, WCAG validation
 
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+**Data Validation** — SQL
+
+**Tools** — Git, GitHub, GitHub Actions, Chrome DevTools, Jira, TestRail
+
+**Programming** — TypeScript, JavaScript, React
 
 ---
 
-## What I Bring to QA Teams
+## Tech Stack
 
-As a QA engineer with development background, I offer unique advantages:
-
-- **Code comprehension:** I can read and understand application code, enabling better test coverage and more effective bug isolation
-- **Developer collaboration:** I communicate technical issues effectively and understand development constraints
-- **Test automation:** I write maintainable, scalable test automation using TypeScript and modern frameworks
-- **Full-stack perspective:** I test at every level - frontend UI/UX, backend APIs, and end-to-end integration
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
 ---
 
-## Education & Certifications
+## Education
 
-**Bachelor of Engineering in Applied Computer Science**  
-University of Economics and Computer Science (WSEI), Kraków  
-2022 - 2026
+**Bachelor of Engineering – Applied Computer Science**
+WSEI University, Kraków · 2022 – 2026
 
-**Certifications:**
-- ITS Certificate in Databases
-- ITS Certificate in Software Development
-- ITS Certificate in HTML and CSS
-- ITS Certificate in Network Security
-- ITS Certificate in Networking
+---
 
+## Certifications
+
+ITS Certificates: Databases · Software Development · HTML and CSS · Network Security · Networking
