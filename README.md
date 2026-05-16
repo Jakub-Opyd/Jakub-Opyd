@@ -1,6 +1,6 @@
 # Jakub Opyd
 
-**QA Automation Engineer** with a strong engineering background. I specialize in building robust test automation frameworks and conducting deep API security analysis. I don't just find bugs; I analyze root causes and ensure long-term software stability.
+**Junior QA Automation Engineer** with a strong engineering background. I specialize in building robust test automation frameworks and conducting deep API security analysis. I don't just find bugs; I analyze root causes and ensure long-term software stability.
 
 Gdańsk / Remote &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/jakub-opyd/) &nbsp;|&nbsp; jakubopyd@gmail.com
 
@@ -23,6 +23,10 @@ Gdańsk / Remote &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/jakub-opyd
 - **Advanced Automation:** Implemented a service-oriented API testing architecture using **Playwright Fixtures**.
 - **Security Insights:** Discovered critical backend vulnerabilities (SQL/Script Injections) and logic flaws (HTTP 500/201 errors).
 - **Full Lifecycle:** Managed everything from a **Traceability Matrix** to a **Final Test Summary Report**.
+
+### Live Report
+
+- https://jakub-opyd.github.io/gardener-qa/
 
 ---
 
