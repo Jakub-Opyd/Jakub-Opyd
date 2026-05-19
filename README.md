@@ -1,36 +1,85 @@
 # Jakub Opyd
 
-**Junior QA Automation Engineer** with a strong engineering background. I specialize in building robust test automation frameworks and conducting deep API security analysis. I don't just find bugs; I analyze root causes and ensure long-term software stability.
+QA Engineer focused on test automation, API testing, and software quality.  
+I specialize in building maintainable Playwright frameworks, analyzing complex defects, and improving test reliability through structured quality engineering practices.
 
-Gdańsk / Remote &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/jakub-opyd/) &nbsp;|&nbsp; jakubopyd@gmail.com
-
----
-
-## 🛠️ Tech Stack & Tools
-
-- **Automation:** Playwright, TypeScript, Page Object Model (POM), Service-Object Pattern.
-- **API & Security:** Postman, REST API Testing, Injection Vulnerability Testing, Schema Validation.
-- **CI/CD:** GitHub Actions (Automated Test Execution).
-- **Manual Testing:** Test Strategy & Plan Design, Traceability Matrix, Professional Defect Reporting.
-- **Dev Stack:** React, Express.js, MongoDB, JavaScript, SQL.
+📍 Gdańsk / Remote  
+📧 jakubopyd@gmail.com
 
 ---
 
-## Featured Project: Gardener-QA
+# Tech Stack & Tools
 
-**[Gardener-QA](https://github.com/Jakub-Opyd/gardener-qa)** is my flagship testing project where I transformed a manual testing suite into a professional automation framework.
+## Test Automation
+- Playwright
+- TypeScript / JavaScript
+- Page Object Model (POM)
+- Service-Object Pattern
+- Playwright Fixtures
+- API/UI Test Isolation
 
-- **Advanced Automation:** Implemented a service-oriented API testing architecture using **Playwright Fixtures**.
-- **Security Insights:** Discovered critical backend vulnerabilities (SQL/Script Injections) and logic flaws (HTTP 500/201 errors).
-- **Full Lifecycle:** Managed everything from a **Traceability Matrix** to a **Final Test Summary Report**.
+## API & Backend Testing
+- REST API Testing
+- Postman
+- Schema Validation
+- Negative Testing
+- MongoDB Compass
+- SQL basics
 
-### Live Report
+## QA & Engineering
+- Test Strategy & Planning
+- Defect Analysis & Reporting
+- Traceability Matrix
+- Root Cause Analysis
+- Flaky Test Investigation
+- Edge Case Testing
 
-- https://jakub-opyd.github.io/gardener-qa/
+## CI/CD & Development
+- Git & GitHub
+- GitHub Actions
+- React
+- Express.js
+- MongoDB
 
 ---
 
-## Education & Certificates
+# Featured Project — Gardener-QA
 
-- **B.Eng. in Applied Computer Science** | WSEI University, Kraków (2022 – 2026)
-- **ITS Certificates:** Databases, Software Development, Network Security.
+A complete QA project focused on manual testing, API testing, and Playwright automation for a full-stack web application.
+Beyond automation, identified critical backend vulnerabilities (Injections) and logic flaws, providing detailed root-cause analysis.
+
+The project includes:
+- modular Playwright automation architecture,
+- API service layer abstraction,
+- custom fixtures,
+- negative and edge-case testing,
+- structured QA documentation,
+- traceability matrix,
+- automated reporting with GitHub Pages.
+
+Key areas:
+- authentication,
+- API validation,
+- defect analysis,
+- flaky test prevention,
+- maintainable test design.
+
+## Live Report
+https://jakub-opyd.github.io/gardener-qa/
+
+## Repository
+https://github.com/Jakub-Opyd/gardener-qa
+
+---
+
+# Education
+
+## B.Eng. in Applied Computer Science
+WSEI University, Kraków
+
+---
+
+# Certificates
+- ITS Databases
+- ITS Software Development
+- ITS Network Security
