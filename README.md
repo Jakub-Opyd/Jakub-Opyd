@@ -1,85 +1,108 @@
-# Jakub Opyd
+# Hi, I'm Jakub Opyd
 
-QA Engineer focused on test automation, API testing, and software quality.  
-I specialize in building maintainable Playwright frameworks, analyzing complex defects, and improving test reliability through structured quality engineering practices.
+QA Automation Engineer specializing in Playwright, API testing, and software quality engineering.
 
-📍 Gdańsk / Remote  
-📧 jakubopyd@gmail.com
+I focus on building maintainable test automation frameworks, designing reliable test strategies, and improving software quality through structured testing practices. My primary interests include UI automation, API validation, CI/CD integration, defect analysis, and scalable test architecture.
+
+📍 Gdańsk / Remote
+📧 [jakubopyd@gmail.com](mailto:jakubopyd@gmail.com)
 
 ---
 
 # Tech Stack & Tools
 
 ## Test Automation
-- Playwright
-- TypeScript / JavaScript
-- Page Object Model (POM)
-- Service-Object Pattern
-- Playwright Fixtures
-- API/UI Test Isolation
+
+* Playwright
+* TypeScript
+* JavaScript
+* Page Object Model (POM)
+* Service Object Pattern
+* Playwright Fixtures
+* Factory Pattern
+* Test Data Management
+* UI & API Test Isolation
 
 ## API & Backend Testing
-- REST API Testing
-- Postman
-- Schema Validation
-- Negative Testing
-- MongoDB Compass
-- SQL basics
 
-## QA & Engineering
-- Test Strategy & Planning
-- Defect Analysis & Reporting
-- Traceability Matrix
-- Root Cause Analysis
-- Flaky Test Investigation
-- Edge Case Testing
+* REST API Testing
+* Postman
+* API Schema Validation
+* Negative Testing
+* Security Testing
+* MongoDB Compass
+* SQL Basics
+
+## QA & Quality Engineering
+
+* Test Planning
+* Test Case Design
+* Defect Analysis & Reporting
+* Root Cause Analysis
+* Traceability Matrix
+* Edge Case Testing
+* Flaky Test Investigation
+* Risk-Based Testing
 
 ## CI/CD & Development
-- Git & GitHub
-- GitHub Actions
-- React
-- Express.js
-- MongoDB
+
+* Git
+* GitHub
+* GitHub Actions
+* CI/CD Pipelines
+* GitHub Pages
+* React
+* Express.js
+* MongoDB
 
 ---
 
-# Featured Project — Gardener-QA
+# Featured Project — Gardener QA Automation Framework
 
-A complete QA project focused on manual testing, API testing, and Playwright automation for a full-stack web application.
-Beyond automation, identified critical backend vulnerabilities (Injections) and logic flaws, providing detailed root-cause analysis.
+A complete QA portfolio project covering manual testing, API testing, UI automation, CI/CD integration, reporting, and quality analysis for a full-stack web application.
 
-The project includes:
-- modular Playwright automation architecture,
-- API service layer abstraction,
-- custom fixtures,
-- negative and edge-case testing,
-- structured QA documentation,
-- traceability matrix,
-- automated reporting with GitHub Pages.
+The project demonstrates modern QA engineering practices and focuses on maintainability, scalability, and reliability.
 
-Key areas:
-- authentication,
-- API validation,
-- defect analysis,
-- flaky test prevention,
-- maintainable test design.
+## Project Highlights
 
-## Live Report
+* 60+ automated test scenarios
+* UI and API test coverage
+* Custom Playwright automation framework
+* Page Object Model architecture
+* Service Layer abstraction
+* Dynamic test data generation
+* Stateful API mocking for isolated smoke tests
+* CI/CD execution with GitHub Actions
+* Automated reporting via GitHub Pages
+* Negative testing and vulnerability identification
+* Traceability Matrix and QA documentation
+* Multiple Critical and Major defects identified and documented
+
+### Key Areas
+
+* Authentication
+* User Session Management
+* API Validation
+* Defect Analysis
+* Test Architecture
+* Mocked Test Environments
+* Automated Reporting
+* Software Quality Assurance
+
+### Live Report
+
 https://jakub-opyd.github.io/gardener-qa/
 
-## Repository
+### Repository
+
 https://github.com/Jakub-Opyd/gardener-qa
 
 ---
 
-# Education
+# Selected Achievements
 
-## B.Eng. in Applied Computer Science
-WSEI University, Kraków
-
----
-
-# Certificates
-- ITS Databases
-- ITS Software Development
-- ITS Network Security
+- Built a custom Playwright automation framework
+- Implemented CI/CD test execution using GitHub Actions
+- Created isolated smoke tests using Playwright API mocking
+- Automated report publishing through GitHub Pages
+- Identified critical security-related and business logic defects
